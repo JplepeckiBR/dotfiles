@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jlepecki@student.hult.edu
+	name = joao lepecki
